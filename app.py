@@ -1,6 +1,6 @@
 import streamlit as st
 from page_2  import PJ 
-from dataset import DS
+from page_1 import DS
 from streamlit_option_menu import option_menu
 
 def main():

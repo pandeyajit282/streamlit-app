@@ -1,5 +1,5 @@
 import streamlit as st
-from Python_project  import PJ 
+from page_2  import PJ 
 from dataset import DS
 from streamlit_option_menu import option_menu
 

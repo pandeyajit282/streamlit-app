@@ -163,7 +163,7 @@ def PJ():
         select_options2 = st.selectbox(
             "Boxplots",
             options=["Boxplot of gde_per_cap grouped by continent",
-            "Boxplot of life_exp grouped by cpntinent"]
+            "Boxplot of life_exp grouped by continent"]
         )
         if select_options2 == "Boxplot of gde_per_cap grouped by continent":
             # boxplot of (continent and GDP)

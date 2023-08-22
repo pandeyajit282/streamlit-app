@@ -1,6 +1,6 @@
 # Data Analysis Dashboard
 
-[Web app](https://pandeyajit282-streamlit-app-app-3q34m8.streamlit.app/)
+https://pandeyajit282-streamlit-app-app-3q34m8.streamlit.app/
 
 Dataset :- https://www.kaggle.com/datasets/gbahdeyboh/gapminder
 
